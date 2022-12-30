@@ -1,0 +1,47 @@
+.vx-header {
+  @apply font-header text-2xl font-medium sm:truncate;
+}
+
+.vx-header-b {
+  @apply font-header text-2xl font-bold sm:truncate;
+}
+
+.vx-header-big {
+  @apply font-header text-2xl font-medium sm:truncate lg:text-3xl;
+}
+
+.vx-paragraph {
+  @apply font-paragraph text-xs font-normal sm:text-sm;
+}
+
+.vx-paragraph-sb {
+  @apply font-paragraph text-xs font-semibold sm:text-sm;
+}
+
+.vx-paragraph-sm {
+  @apply font-paragraph text-xs font-normal;
+}
+
+.vx-paragraph-sm-b {
+  @apply font-paragraph text-xs font-bold;
+}
+
+.vx-menu {
+  @apply font-header text-base font-medium xl:text-lg;
+}
+
+.vx-cta {
+  @apply font-header text-sm font-medium;
+}
+
+.vx-cta-big-sb {
+  @apply font-header text-lg font-semibold;
+}
+
+.vx-balance-sb {
+  @apply font-paragraph text-xs font-semibold sm:text-sm;
+}
+
+.vx-balance-big-sb {
+  @apply font-header text-2xl font-semibold lg:text-3xl;
+}
